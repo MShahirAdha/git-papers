@@ -1,6 +1,6 @@
 # Article title
 Author: Shahir Adha
-My affiliation: Nanyang Technological University
+blablablay
 
 # Introduction
 This is the introduction to my article
