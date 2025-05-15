@@ -1,6 +1,6 @@
 # Article title
 Author: Shahir Adha
-And all of my friends, who are great.
+My affiliation: Nanyang Technological University
 
 # Introduction
 This is the introduction to my article
