@@ -10,6 +10,8 @@ Really cool results
 # Figures
 Graphs and images
 
+# Conclusions
+
 # References
 Smith, J. (2020)
 Markello, R. (2019)
