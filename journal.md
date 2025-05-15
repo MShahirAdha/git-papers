@@ -1,5 +1,5 @@
 # Article title
-Author: Shahir Adha
+Author: Shahir Adha, John
 
 # Introduction
 This is the introduction to my article
